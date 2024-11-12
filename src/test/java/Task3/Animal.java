@@ -1,3 +1,5 @@
+package Task3;
+
 class Animal {
     protected String species;
 
